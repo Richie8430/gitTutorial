@@ -1,2 +1,2 @@
-version1;
-console;
+version 2;
+import { createRequire } from 'module';
