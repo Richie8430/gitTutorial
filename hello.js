@@ -1,2 +1,2 @@
-version 2;
-import { createRequire } from 'module';
+version 3
+import { createApp } from 'vue'
