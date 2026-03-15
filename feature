@@ -1,1 +1,2 @@
-lorem feature 1
+
+feature 2 it is
